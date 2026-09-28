@@ -1,5 +1,5 @@
 html{
-    background-color:aquamarine;
+    background-color:rgb(255, 114, 126);
 }
 
 body{
@@ -12,4 +12,42 @@ h1{
 .main-header{
     background-color:lightblue;
     padding: 30px;
+}
+
+.viburnum-header{
+    background-color:lightpink;
+    padding: 30px;
+    color:rgb(80, 76, 70);
+    margin-bottom: 10px;
+}
+
+.nav-links{
+    color: rgb(131, 34, 56);
+}
+
+.viburnums-main{
+    background-color: rgb(133, 122, 121);
+    padding: 30px;
+    color: rgb(210, 204, 199);
+}
+
+.vib-foot{
+    background-color: rgb(80, 76, 70);
+    color: rgb(255, 255, 255);
+    padding: 30px;
+    margin-top: 10px;
+}
+
+.color-p{
+    color: rgb(236, 236, 255);
+}
+
+.bold{
+    color: rgb(0, 0, 0);
+}
+
+.bold2{
+    border-bottom: 20px dotted rgb(65, 55, 52);
+    padding: 15px; ;
+    display: inline-block;
 }
