@@ -23,6 +23,25 @@ h1{
 
 .nav-links{
     color: rgb(131, 34, 56);
+    background-color: rgb(91, 108, 108);
+}
+
+.nav-links:hover {
+    color: rgb(238, 176, 117);
+    background-color: aquamarine;
+    font-size: 60px;
+}
+
+.nav-links:focus {
+    padding: 10px;
+}
+
+.nav-links:visited {
+    color: blue;
+}
+
+.nav-links:active {
+    font size: 40px;
 }
 
 .viburnums-main{
